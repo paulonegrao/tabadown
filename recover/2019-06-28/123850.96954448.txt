@@ -1,0 +1,38 @@
+{
+  "tableName": "SetUps",
+  "row": {
+    "_RowNumber": "17",
+    "Timestamp": "06/24/2019 13:13:55",
+    "Line": "PET-LINE",
+    "Product": "24/500ml Sachiel Spring Water (Shanghai)",
+    "SetDateTime": "06/24/2019 00:00:00",
+    "SetBy": "operatorwhistler@gmail.com",
+    "Comments": ""
+  },
+  "appName": "tabaDownTest-917871",
+  "appId": "d7b0bc24-2987-43ae-a0f9-6850ef745841",
+  "appVersion": "1.001678",
+  "userSettings": {
+    "_RowNumber": "0",
+    "_EMAIL": "",
+    "_NAME": "",
+    "_LOCATION": "",
+    "Options Heading": "",
+    "Option 1": "",
+    "Option 2": "",
+    "Country Option": "",
+    "Language Option": "",
+    "Option 5": "",
+    "Option 6": "",
+    "Option 7": "",
+    "Option 8": "",
+    "Option 9": "",
+    "_THISUSER": "onlyvalue"
+  },
+  "type": "AddTableRow",
+  "actionType": "AddTableRow",
+  "failureCount": 0,
+  "requestId": 96954448,
+  "timestamp": "2019-06-24T20:14:55.175Z",
+  "timeStamp": "2019-06-24T20:14:55.175Z"
+}

@@ -1,0 +1,36 @@
+{
+  "tableName": "Intervals",
+  "row": {
+    "_RowNumber": "2",
+    "Interval_ID": "IntervalLink",
+    "From": "06/17/2019 06:00:00",
+    "To": "06/30/2019 19:00:00",
+    "GO_Button": "https://github.com/paulonegrao/tabadown/blob/master/images/go-button.png?raw=true",
+    "Related Areas": "ALL , MAINTENANCE , OPERATION , PLANNING , QUALITY"
+  },
+  "appName": "tabaDownTest-917871",
+  "appId": "d7b0bc24-2987-43ae-a0f9-6850ef745841",
+  "appVersion": "1.001678",
+  "userSettings": {
+    "_RowNumber": "0",
+    "_EMAIL": "",
+    "_NAME": "",
+    "_LOCATION": "",
+    "Options Heading": "",
+    "Option 1": "",
+    "Option 2": "",
+    "Country Option": "",
+    "Language Option": "",
+    "Option 5": "",
+    "Option 6": "",
+    "Option 7": "",
+    "Option 8": "",
+    "Option 9": "",
+    "_THISUSER": "onlyvalue"
+  },
+  "actionType": "UpdateTableRow",
+  "failureCount": 0,
+  "requestId": 84097070,
+  "timestamp": "2019-06-21T00:11:10.2Z",
+  "timeStamp": "2019-06-21T00:11:10.201Z"
+}

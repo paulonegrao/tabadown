@@ -1,0 +1,38 @@
+{
+  "tableName": "SetUps",
+  "row": {
+    "_RowNumber": "18",
+    "Timestamp": "06/26/2019 13:51:16",
+    "Line": "PET-LINE",
+    "Product": "24/500ml Earth Water",
+    "SetDateTime": "06/26/2019 00:00:00",
+    "SetBy": "operatorwhistler@gmail.com",
+    "Comments": ""
+  },
+  "appName": "tabaDownTest-917871",
+  "appId": "d7b0bc24-2987-43ae-a0f9-6850ef745841",
+  "appVersion": "1.001678",
+  "userSettings": {
+    "_RowNumber": "0",
+    "_EMAIL": "",
+    "_NAME": "",
+    "_LOCATION": "",
+    "Options Heading": "",
+    "Option 1": "",
+    "Option 2": "",
+    "Country Option": "",
+    "Language Option": "",
+    "Option 5": "",
+    "Option 6": "",
+    "Option 7": "",
+    "Option 8": "",
+    "Option 9": "",
+    "_THISUSER": "onlyvalue"
+  },
+  "type": "AddTableRow",
+  "actionType": "AddTableRow",
+  "failureCount": 0,
+  "requestId": 3042402,
+  "timestamp": "2019-06-26T20:52:57.607Z",
+  "timeStamp": "2019-06-26T20:52:57.607Z"
+}
