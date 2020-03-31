@@ -1,5 +1,4 @@
 ![tabaDown Logo](https://github.com/paulonegrao/tabadown/blob/master/images/tabaDown.png?raw=true)
-Format: ![Alt Text](url)
 # tabaDown
 App to support Downtime process 
 ## Description
