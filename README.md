@@ -1,5 +1,5 @@
-![tabaDown Logo](https://github.com/paulonegrao/tabadown/blob/master/images/tabaDown.png?raw=true)
 # tabaDown
+![tabaDown Logo](https://github.com/paulonegrao/tabadown/blob/master/images/tabaDown.png?raw=true)
 App to support Downtime process 
 ## Description
 This is a multiplatform prototype project to support the immediate register and folow-up of Downtime events occured on groups of equipment/machines inside an industrial plant.
