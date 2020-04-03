@@ -1,2 +1,2 @@
-*.as linguist-language=AppSheet
-*.as linguist-detectable
+*.apps linguist-language=AppSheet
+*.apps linguist-detectable
