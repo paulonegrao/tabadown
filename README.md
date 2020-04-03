@@ -1,6 +1,5 @@
 # tabaDown
-App to support Downtime processes
-![tabaDown Logo](https://github.com/paulonegrao/tabadown/blob/master/images/tabaDown.png?raw=true)
+App to support Downtime processes | ![tabaDown Logo](https://github.com/paulonegrao/tabadown/blob/master/images/tabaDown.png?raw=true)
 ## Description
 This is a multiplatform prototype project to support the immediate register and folow-up of Downtime events occured on groups of equipment/machines inside an industrial plant.
 It incorporates FMEA (Failure Modes and Effects Analysis) methodology to clasify and treat the events. It also implements preprogramed and on the fly reports and charts like: OEE, Pareto of Problems, Downtime Dashboard, Events Drill Down, etc.
