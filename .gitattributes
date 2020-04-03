@@ -1,3 +1,2 @@
-*.html linguist-detectable=false
-*.ts linguist-language=Angular
-*.js linguist-detectable=true
+*.png linguist-detectable=true
+*.png linguist-language=AppSheet
